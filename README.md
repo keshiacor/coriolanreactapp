@@ -5,10 +5,10 @@ This is a react app that allows users to order food from Saucy Tango. The app is
 ## Screenshots
 
 Food order form before submission
-/public/images/food-order-form.png
+![Order form](https://github.com/keshiacor/coriolanreactapp/blob/main/public/order_form.jpg)
 
 Food order form after submission
-/public/images/food-order-form-submitted.png
+![Order form with response message](https://github.com/keshiacor/coriolanreactapp/blob/main/public/order_details.jpg)
 
 ### Getting Started
 
