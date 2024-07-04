@@ -4,6 +4,12 @@ This is a react app that allows users to order food from Saucy Tango. The app is
 
 ## Screenshots
 
+Food order form before submission
+/public/images/food-order-form.png
+
+Food order form after submission
+/public/images/food-order-form-submitted.png
+
 ### Getting Started
 
 1. Clone the repository
